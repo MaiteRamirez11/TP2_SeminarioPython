@@ -4,7 +4,6 @@ def process_descriptions (descriptions):
     
     for description in descriptions:
         for word in dict:
-            #aux = description.lower.split()
             dict[word] += description.lower().split().count(word)
     
     return dict
