@@ -10,7 +10,7 @@ Deberás abrir una terminal y escribir el comando: <br />
 * Crear el entorno virtual:  
     `python -m venv venv`
 * Activar el entorno virtual:  
-    -En windows:  `source venv/Scripts/activate`
+    -En windows:  `source venv/Scripts/activate` <br />
     -En Linux/Mac:  `source venv/bin/activate`
 
 ### **Instalar las dependencias necesarias:**
@@ -19,7 +19,7 @@ Dentro del entorno virtual, instalar las dependencias que estan en el archivo re
 
 ## **Ejecutar el programa**
 Luego de tener las dependencias instaladas: <br />
-    `jupyter notebook notebooks/ejercicio10.ipynb`
+    `jupyter notebook notebooks/ejercicio10.ipynb` <br />
 Esto abrirá el notebook en el navegador y se podrá ejecutar la celda del programa.
 
 ## **Desactivar el entorno virtual**
