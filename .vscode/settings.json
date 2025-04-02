@@ -1,5 +1,6 @@
 {
     "python.analysis.extraPaths": [
-        "./ejercicios/src"
+        "./ejercicios/src",
+        "./entrega_ej10/src"
     ]
 }
