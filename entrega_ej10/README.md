@@ -25,3 +25,11 @@ Esto abrirá el notebook en el navegador y se podrá ejecutar la celda del progr
 ## **Desactivar el entorno virtual**
 Al finalizar, debe desactivar el entorno virtual con el comando: <br/>
     `deactivate`
+
+## **Aclaración:**
+Particularmente yo trabajé los Jupyter Notebook desde VS Code. Para ejecutar el proyecto allí se debe seguir estos pasos:
+* Instalar la extensión de Jupyter en VS Code
+* Activar el entorno virtual en la terminal de VS Code
+* Abrir la carpeta donde está el notebook y abrir el archivo .ipynb
+* Seleccionar el kernel 
+* Ejecutar el notebook
